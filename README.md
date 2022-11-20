@@ -1,12 +1,3 @@
-Conformación:
-
-| Apellidos | Nombres | Correo @uniandes | Usuario de GitHub | Funcionalidades con pruebas E2E |
-| --------- | ------- | ---------------- | ----------------- | ----------------- |
-| Beltran Beltran | Laura Andrea | la.beltranb1@uniandes.edu.co |  laubeltranandes | Dashboard |
-| Buitrago Corredor | Dario Alexander | da.buitragoc1@uniandes.edu.co |  dario-buitrago-andes | Pages |
-| Cardenas Castañeda | Andres Camilo | ac.cardenasc1@uniandes.edu.co | accardenasc1 | Tags | 
-| Henao Toro | Daniel Felipe | df.henaot1@uniandes.edu.co | dhenaotoro | Post |
-
 # Semana 6: Pruebas de regresión visual GHOSTV5.22 y GHOSTV3.42 en Backstop
  
  <h3>Dentro de las pruebas de regresión realizadas por el lenguaje Backstop JS se implemento los 5 escenarios de pruebas para la funcionalidad de TAGS para la ejecución de las pruebas se debe:</h3>
