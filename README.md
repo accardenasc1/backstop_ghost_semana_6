@@ -1,4 +1,4 @@
-# Semana 6: Pruebas de regresión visual GHOSTV5.22 y GHOSTV3.42
+# Semana 6: Pruebas de regresión visual GHOSTV5.22 y GHOSTV3.42 en Backstop
  
  <h3>Dentro de las pruebas de regresión realizadas por el lenguaje Backstop JS se implemento los 5 escenarios de pruebas para la funcionalidad de TAGS para la ejecución de las pruebas se debe:</h3>
  
