@@ -1,0 +1,696 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_01_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_01_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_01_0_document_0_Web.png",
+        "label": "tag_1_new_Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step01.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_01_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_02_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_02_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_02_0_document_0_Web.png",
+        "label": "tag_1_new_Step_02",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step02.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_02_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_03_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_03_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_03_0_document_0_Web.png",
+        "label": "tag_1_new_Step_03",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step03.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_03_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_04_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_04_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_04_0_document_0_Web.png",
+        "label": "tag_1_new_Step_04",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step04.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_04_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_05_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_05_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_05_0_document_0_Web.png",
+        "label": "tag_1_new_Step_05",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step05.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_05_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_06_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_06_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_06_0_document_0_Web.png",
+        "label": "tag_1_new_Step_06",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step06.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_06_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_07_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_07_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_07_0_document_0_Web.png",
+        "label": "tag_1_new_Step_07",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step07.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_07_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_08_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_08_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_08_0_document_0_Web.png",
+        "label": "tag_1_new_Step_08",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step08.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_08_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_09_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_09_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_09_0_document_0_Web.png",
+        "label": "tag_1_new_Step_09",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step09.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_09_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_10_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_10_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_10_0_document_0_Web.png",
+        "label": "tag_1_new_Step_10",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step10.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_10_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_11_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_11_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_11_0_document_0_Web.png",
+        "label": "tag_1_new_Step_11",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step11.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_11_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_12_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_12_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_12_0_document_0_Web.png",
+        "label": "tag_1_new_Step_12",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step12.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_12_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_1_new_Step_13_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_1_new_Step_13_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_1_new_Step_13_0_document_0_Web.png",
+        "label": "tag_1_new_Step_13",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_1_new/Step13.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_1_new_Step_13_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_2_edit_Step_01_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_2_edit_Step_01_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_2_edit_Step_01_0_document_0_Web.png",
+        "label": "tag_2_edit_Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_2_edit/Step01.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_2_edit_Step_01_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_2_edit_Step_02_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_2_edit_Step_02_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_2_edit_Step_02_0_document_0_Web.png",
+        "label": "tag_2_edit_Step_02",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_2_edit/Step02.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_2_edit_Step_02_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_2_edit_Step_03_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_2_edit_Step_03_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_2_edit_Step_03_0_document_0_Web.png",
+        "label": "tag_2_edit_Step_03",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_2_edit/Step03.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_2_edit_Step_03_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_2_edit_Step_04_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_2_edit_Step_04_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_2_edit_Step_04_0_document_0_Web.png",
+        "label": "tag_2_edit_Step_04",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_2_edit/Step04.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_2_edit_Step_04_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_2_edit_Step_05_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_2_edit_Step_05_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_2_edit_Step_05_0_document_0_Web.png",
+        "label": "tag_2_edit_Step_05",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_2_edit/Step05.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_2_edit_Step_05_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_2_edit_Step_06_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_2_edit_Step_06_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_2_edit_Step_06_0_document_0_Web.png",
+        "label": "tag_2_edit_Step_06",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_2_edit/Step06.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_2_edit_Step_06_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_2_edit_Step_07_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_2_edit_Step_07_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_2_edit_Step_07_0_document_0_Web.png",
+        "label": "tag_2_edit_Step_07",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_2_edit/Step07.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_2_edit_Step_07_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_2_edit_Step_08_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_2_edit_Step_08_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_2_edit_Step_08_0_document_0_Web.png",
+        "label": "tag_2_edit_Step_08",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_2_edit/Step08.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_2_edit_Step_08_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_2_edit_Step_09_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_2_edit_Step_09_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_2_edit_Step_09_0_document_0_Web.png",
+        "label": "tag_2_edit_Step_09",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_2_edit/Step09.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_2_edit_Step_09_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_01_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_3_reject_delete_Step_01_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_3_reject_delete_Step_01_0_document_0_Web.png",
+        "label": "tag_3_reject_delete_Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_3_reject_delete/Step01.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_01_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_02_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_3_reject_delete_Step_02_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_3_reject_delete_Step_02_0_document_0_Web.png",
+        "label": "tag_3_reject_delete_Step_02",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_3_reject_delete/Step02.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_02_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_03_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_3_reject_delete_Step_03_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_3_reject_delete_Step_03_0_document_0_Web.png",
+        "label": "tag_3_reject_delete_Step_03",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_3_reject_delete/Step03.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_03_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_04_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_3_reject_delete_Step_04_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_3_reject_delete_Step_04_0_document_0_Web.png",
+        "label": "tag_3_reject_delete_Step_04",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_3_reject_delete/Step04.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_04_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_05_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_3_reject_delete_Step_05_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_3_reject_delete_Step_05_0_document_0_Web.png",
+        "label": "tag_3_reject_delete_Step_05",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_3_reject_delete/Step05.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_05_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_06_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_3_reject_delete_Step_06_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_3_reject_delete_Step_06_0_document_0_Web.png",
+        "label": "tag_3_reject_delete_Step_06",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_3_reject_delete/Step06.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_06_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_07_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_3_reject_delete_Step_07_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_3_reject_delete_Step_07_0_document_0_Web.png",
+        "label": "tag_3_reject_delete_Step_07",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_3_reject_delete/Step07.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_07_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_08_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_3_reject_delete_Step_08_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_3_reject_delete_Step_08_0_document_0_Web.png",
+        "label": "tag_3_reject_delete_Step_08",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_3_reject_delete/Step08.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_08_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_09_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_3_reject_delete_Step_09_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_3_reject_delete_Step_09_0_document_0_Web.png",
+        "label": "tag_3_reject_delete_Step_09",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_3_reject_delete/Step09.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_3_reject_delete_Step_09_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_01_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_4_new_empty_field_Step_01_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_4_new_empty_field_Step_01_0_document_0_Web.png",
+        "label": "tag_4_new_empty_field_Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_4_new_empty_field/Step01.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_01_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_02_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_4_new_empty_field_Step_02_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_4_new_empty_field_Step_02_0_document_0_Web.png",
+        "label": "tag_4_new_empty_field_Step_02",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_4_new_empty_field/Step02.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_02_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_03_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_4_new_empty_field_Step_03_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_4_new_empty_field_Step_03_0_document_0_Web.png",
+        "label": "tag_4_new_empty_field_Step_03",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_4_new_empty_field/Step03.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_03_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_04_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_4_new_empty_field_Step_04_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_4_new_empty_field_Step_04_0_document_0_Web.png",
+        "label": "tag_4_new_empty_field_Step_04",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_4_new_empty_field/Step04.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_04_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_05_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_4_new_empty_field_Step_05_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_4_new_empty_field_Step_05_0_document_0_Web.png",
+        "label": "tag_4_new_empty_field_Step_05",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_4_new_empty_field/Step05.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_05_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_06_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_4_new_empty_field_Step_06_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_4_new_empty_field_Step_06_0_document_0_Web.png",
+        "label": "tag_4_new_empty_field_Step_06",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_4_new_empty_field/Step06.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_06_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_07_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_4_new_empty_field_Step_07_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_4_new_empty_field_Step_07_0_document_0_Web.png",
+        "label": "tag_4_new_empty_field_Step_07",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_4_new_empty_field/Step07.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_4_new_empty_field_Step_07_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_5_delete_Step_01_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_5_delete_Step_01_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_5_delete_Step_01_0_document_0_Web.png",
+        "label": "tag_5_delete_Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_5_delete/Step01.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_5_delete_Step_01_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_5_delete_Step_02_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_5_delete_Step_02_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_5_delete_Step_02_0_document_0_Web.png",
+        "label": "tag_5_delete_Step_02",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_5_delete/Step02.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_5_delete_Step_02_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_5_delete_Step_03_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_5_delete_Step_03_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_5_delete_Step_03_0_document_0_Web.png",
+        "label": "tag_5_delete_Step_03",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_5_delete/Step03.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_5_delete_Step_03_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_5_delete_Step_04_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_5_delete_Step_04_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_5_delete_Step_04_0_document_0_Web.png",
+        "label": "tag_5_delete_Step_04",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_5_delete/Step04.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_5_delete_Step_04_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_5_delete_Step_05_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_5_delete_Step_05_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_5_delete_Step_05_0_document_0_Web.png",
+        "label": "tag_5_delete_Step_05",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_5_delete/Step05.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_5_delete_Step_05_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_5_delete_Step_06_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_5_delete_Step_06_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_5_delete_Step_06_0_document_0_Web.png",
+        "label": "tag_5_delete_Step_06",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_5_delete/Step06.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_5_delete_Step_06_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_5_delete_Step_07_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_5_delete_Step_07_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_5_delete_Step_07_0_document_0_Web.png",
+        "label": "tag_5_delete_Step_07",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_5_delete/Step07.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_5_delete_Step_07_0_document_0_Web.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_tag_5_delete_Step_08_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-165729\\backstop_default_tag_5_delete_Step_08_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_tag_5_delete_Step_08_0_document_0_Web.png",
+        "label": "tag_5_delete_Step_08",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV5.22/Function_Tags/tag_5_delete/Step08.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_tag_5_delete_Step_08_0_document_0_Web.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}

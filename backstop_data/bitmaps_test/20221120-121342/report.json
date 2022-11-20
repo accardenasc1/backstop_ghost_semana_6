@@ -1,0 +1,21 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_0_Web.png",
+        "test": "..\\bitmaps_test\\20221120-121342\\backstop_default_Tag_New_Step_01_0_document_0_Web.png",
+        "selector": "document",
+        "fileName": "backstop_default_Tag_New_Step_01_0_document_0_Web.png",
+        "label": "Tag New Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step01.png",
+        "expect": 0,
+        "viewportLabel": "Web",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_0_Web.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}

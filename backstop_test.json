@@ -1,0 +1,311 @@
+{
+  "id": "backstop_default",
+  "viewports": [   
+    {
+      "label": "Web",
+      "width": 1024,
+      "height": 768
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [ 
+    {
+      "label": "tag_1_new_Step_01",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step01.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_02",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step02.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_03",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step03.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_04",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step04.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_05",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step05.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_06",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step06.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_07",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step07.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_08",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step08.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_09",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step09.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_10",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step10.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_11",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step11.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_12",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step12.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_1_new_Step_13",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step13.png",
+      "referenceurl": ""
+    },
+
+    {
+      "label": "tag_2_edit_Step_01",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_2_edit/Step01.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_2_edit_Step_02",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_2_edit/Step02.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_2_edit_Step_03",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_2_edit/Step03.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_2_edit_Step_04",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_2_edit/Step04.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_2_edit_Step_05",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_2_edit/Step05.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_2_edit_Step_06",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_2_edit/Step06.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_2_edit_Step_07",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_2_edit/Step07.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_2_edit_Step_08",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_2_edit/Step08.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_2_edit_Step_09",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_2_edit/Step09.png",
+      "referenceurl": ""
+    },
+
+    {
+      "label": "tag_3_reject_delete_Step_01",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_3_reject_delete/Step01.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_3_reject_delete_Step_02",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_3_reject_delete/Step02.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_3_reject_delete_Step_03",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_3_reject_delete/Step03.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_3_reject_delete_Step_04",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_3_reject_delete/Step04.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_3_reject_delete_Step_05",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_3_reject_delete/Step05.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_3_reject_delete_Step_06",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_3_reject_delete/Step06.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_3_reject_delete_Step_07",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_3_reject_delete/Step07.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_3_reject_delete_Step_08",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_3_reject_delete/Step08.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_3_reject_delete_Step_09",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_3_reject_delete/Step09.png",
+      "referenceurl": ""
+    },
+
+    {
+      "label": "tag_4_new_empty_field_Step_01",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_4_new_empty_field/Step01.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_4_new_empty_field_Step_02",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_4_new_empty_field/Step02.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_4_new_empty_field_Step_03",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_4_new_empty_field/Step03.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_4_new_empty_field_Step_04",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_4_new_empty_field/Step04.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_4_new_empty_field_Step_05",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_4_new_empty_field/Step05.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_4_new_empty_field_Step_06",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_4_new_empty_field/Step06.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_4_new_empty_field_Step_07",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_4_new_empty_field/Step07.png",
+      "referenceurl": ""
+    },
+
+
+    {
+      "label": "tag_5_delete_Step_01",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_5_delete/Step01.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_5_delete_Step_02",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_5_delete/Step02.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_5_delete_Step_03",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_5_delete/Step03.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_5_delete_Step_04",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_5_delete/Step04.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_5_delete_Step_05",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_5_delete/Step05.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_5_delete_Step_06",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_5_delete/Step06.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_5_delete_Step_07",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_5_delete/Step07.png",
+      "referenceurl": ""
+    },
+    {
+      "label": "tag_5_delete_Step_08",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "./ScreenGhostV3.42/Function_Tags/tag_5_delete/Step08.png",
+      "referenceurl": ""
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"]
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

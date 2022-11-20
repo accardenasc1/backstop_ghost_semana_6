@@ -1,0 +1,38 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_0_phone.png",
+        "test": "..\\bitmaps_test\\20221120-120309\\backstop_default_Tag_New_Step_01_0_document_0_phone.png",
+        "selector": "document",
+        "fileName": "backstop_default_Tag_New_Step_01_0_document_0_phone.png",
+        "label": "Tag New Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step01.png",
+        "referenceUrl": "C:/Users/AndresCamiloCardenas/SourceU/backstop_semana_6/ScreenGhostV5.22/Function_Tags/tag_1_new/Step001.png",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_0_phone.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_1_tablet.png",
+        "test": "..\\bitmaps_test\\20221120-120309\\backstop_default_Tag_New_Step_01_0_document_1_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_Tag_New_Step_01_0_document_1_tablet.png",
+        "label": "Tag New Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step01.png",
+        "referenceUrl": "C:/Users/AndresCamiloCardenas/SourceU/backstop_semana_6/ScreenGhostV5.22/Function_Tags/tag_1_new/Step001.png",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "error": "Reference file not found C:\\Users\\AndresCamiloCardenas\\SourceU\\backstop_semana_6\\backstop_data\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_1_tablet.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}

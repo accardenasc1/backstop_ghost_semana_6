@@ -1,0 +1,54 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_0_phone.png",
+        "test": "..\\bitmaps_test\\20221120-114112\\backstop_default_Tag_New_Step_01_0_document_0_phone.png",
+        "selector": "document",
+        "fileName": "backstop_default_Tag_New_Step_01_0_document_0_phone.png",
+        "label": "Tag New Step_01",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step01.png",
+        "referenceUrl": "../ScreenGhostV5.22/Function_Tags/tag_1_new/Step01.png",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_1_tablet.png",
+        "test": "..\\bitmaps_test\\20221120-114112\\backstop_default_Tag_New_Step_01_0_document_1_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_Tag_New_Step_01_0_document_1_tablet.png",
+        "label": "Tag New Step_01",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "./ScreenGhostV3.42/Function_Tags/tag_1_new/Step01.png",
+        "referenceUrl": "../ScreenGhostV5.22/Function_Tags/tag_1_new/Step01.png",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    }
+  ],
+  "id": "backstop_default"
+}

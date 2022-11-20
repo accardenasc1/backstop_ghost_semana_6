@@ -1,0 +1,56 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_0_phone.png",
+        "test": "..\\bitmaps_test\\20221120-120614\\backstop_default_Tag_New_Step_01_0_document_0_phone.png",
+        "selector": "document",
+        "fileName": "backstop_default_Tag_New_Step_01_0_document_0_phone.png",
+        "label": "Tag New Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "C:/Users/AndresCamiloCardenas/SourceU/ScreenGhostV5.22/Function_Tags/tag_1_new/Step01.png",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.616536458333333,
+          "misMatchPercentage": "3.62",
+          "analysisTime": 25
+        },
+        "diffImage": "..\\bitmaps_test\\20221120-120614\\failed_diff_backstop_default_Tag_New_Step_01_0_document_0_phone.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_Tag_New_Step_01_0_document_1_tablet.png",
+        "test": "..\\bitmaps_test\\20221120-120614\\backstop_default_Tag_New_Step_01_0_document_1_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_Tag_New_Step_01_0_document_1_tablet.png",
+        "label": "Tag New Step_01",
+        "misMatchThreshold": 0.1,
+        "url": "C:/Users/AndresCamiloCardenas/SourceU/ScreenGhostV5.22/Function_Tags/tag_1_new/Step01.png",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 7.132466634114583,
+          "misMatchPercentage": "7.13",
+          "analysisTime": 60
+        },
+        "diffImage": "..\\bitmaps_test\\20221120-120614\\failed_diff_backstop_default_Tag_New_Step_01_0_document_1_tablet.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}
