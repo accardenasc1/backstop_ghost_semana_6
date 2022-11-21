@@ -37,6 +37,17 @@
  
  Ventjas y descentajas en la wiki de este repositorio
 
+<h1>Reporte de incidencias</h1>
+
+https://pruebas-automatizadas-andes.atlassian.net/browse/RLBOIEELA-15
+
+https://pruebas-automatizadas-andes.atlassian.net/browse/RLBOIEELA-16
+
+https://pruebas-automatizadas-andes.atlassian.net/browse/RLBOIEELA-17
+
+https://pruebas-automatizadas-andes.atlassian.net/browse/RLBOIEELA-18
+
+https://pruebas-automatizadas-andes.atlassian.net/browse/RLBOIEELA-19
  
  
  
