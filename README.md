@@ -34,6 +34,8 @@
  Se debera genera un HTMl como el siguiente con las imagenes de referencia, comparación y resultado.
  
  ![image](https://user-images.githubusercontent.com/111259182/202930713-2d3974b5-bc3e-4873-b08f-9bb5638ce425.png)
+ 
+ Ventjas y descentajas en la wiki de este repositorio
 
  
  
